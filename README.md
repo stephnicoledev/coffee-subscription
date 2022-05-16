@@ -4,8 +4,6 @@ Svare Kaffe Coffee Shop is a fully responsive website built with HTML, CSS, and 
 
 **Link to project:** https://stephnicoledev.github.io/coffee-subscription/
 
-![alt tag](https://ibb.co/kShPtHd)
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
