@@ -1,8 +1,15 @@
-# Svare Kaffe Coffee Shop
+<div align="center">
+
+![GitHub Follow](https://img.shields.io/github/followers/stephnicoledev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/darkroast_dev?style=social)](https://twitter.com/intent/follow?screen_name=darkroast_dev)
+
+  <h2 align="center">☕️ Svare Kaffe Coffee Shop ☕️</h2>
 
 Svare Kaffe Coffee Shop is a fully responsive website built with HTML, CSS, and JavaScript. It showcases a local, family-owned business and the different types of coffee and drinks they offer to customers.
 
-**Link to project:** https://stephnicoledev.github.io/coffee-subscription/
+<a href="https://stephnicoledev.github.io/coffee-subscription/"><strong>Live Site</strong></a>
+
+</div>
 
 ## How It's Made:
 
